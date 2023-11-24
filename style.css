@@ -104,10 +104,14 @@ Projects
     width: 15%;
 }
 
-
+.Github-logo
+{
+    width:60px;
+}
 
 .Footer
 {
+    text-align: center;
     color : white;
     font-size: 20px;
 }

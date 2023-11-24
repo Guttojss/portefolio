@@ -86,8 +86,31 @@
     <section>
         <div class="Contacts" id="mail">
            <h1>Contacts</h1>
-           <p>Send me an email!</p>
+           <div class="Redes Sociais">
            <a href="https://github.com/Guttojss" rel="nofollow" target="_blank"> <img src="imagens/github-white.png" alt="github logo" class="Github-logo"></a>
+            </div>
+            <!--
+                Email Sender
+            -->
+            <div class="E-Mail">
+                <h2>Envie-me um Email</h2>
+                <form target="_blank" action="https://formsubmit.co/guttojsstfg@gmail.com" method="POST">
+                  <div class="form-group">
+                    <div class="form-row">
+                      <div class="col">
+                        <input type="text" name="name" class="form-control" placeholder="Nome Completo" required>
+                      </div>
+                      <div class="col">
+                        <input type="email" name="email" class="form-control" placeholder="Endereço de Email" required>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <textarea placeholder="A sua Mensagem" class="form-control" name="message" rows="10" required></textarea>
+                  </div>
+                  <button type="submit" class="btn btn-lg btn-dark btn-block">Enviar Email</button>
+                </form>
+              </div>
 
         </div>
     </section>    

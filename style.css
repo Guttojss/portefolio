@@ -102,19 +102,10 @@ Projects
     margin: 4%;
     vertical-align: middle;
     width: 15%;
+    border-radius: 1vw;
+
 }
 
-.Github-logo
-{
-    width:60px;
-}
-
-.E-Mail
-{
-    text-align: left;
-    color: white;
-    margin: 1%;
-}
 .Footer
 {
     text-align: center;

@@ -1,0 +1,23 @@
+body
+{
+    background-color: rgb(53, 53, 56);
+}
+h1
+{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+
+.E-Mail
+{
+    text-align: left;
+    color: white;
+    margin: 1%;
+}
+.Redes-Sociais img
+{
+    margin: 1%;
+    vertical-align: middle;
+    width: 10%;
+}

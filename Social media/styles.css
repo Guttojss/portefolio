@@ -17,7 +17,8 @@ h1
 }
 .Redes-Sociais img
 {
-    margin: 1%;
+    margin: 3%;
     vertical-align: middle;
     width: 10%;
+    border-radius: 1vw;
 }

@@ -3,6 +3,7 @@ body
     background-color: rgb(53, 53, 56);
    /* font-family: poppins;*/
 }
+
 section
 {
     height: 75vh;
@@ -12,13 +13,6 @@ section
 a
 {
     color: rgb(212, 199, 199);
-}
-footer
-{
-    height: 100px;
-    background-color: brown;
-    display: flex;
-
 }
 
 nav
@@ -82,9 +76,11 @@ p
     color : white;
     font-size : 25px;
 }
+
 /*
-Projects
+    Projects
 */
+
 .Linha
 {
     display: flex;
@@ -104,7 +100,15 @@ Projects
     vertical-align: middle;
     width: 15%;
     border-radius: 1vw;
-
+}
+/*
+    Footer
+*/
+footer
+{
+    height: 100px;
+    background-color: brown;
+    display: flex;
 }
 
 .Footer
